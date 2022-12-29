@@ -1,4 +1,4 @@
-# CS224N
+# CS224n
 https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/
 
 Assignment 1: Introduction to word vectors
